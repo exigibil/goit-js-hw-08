@@ -1,4 +1,5 @@
-import throttle from 'lodash.throttle';
+import Vimeo from '@vimeo/player';
+import _throttle from 'lodash.throttle';
 
 
 
